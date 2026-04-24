@@ -1,16 +1,16 @@
-const termeszetTomb = [{
-        "nev": "Balaton",
-        "leiras": "A Balaton egy tó a Dunántúlon, Közép-Európa legnagyobb tava, Magyarország vízrajzának meghatározó eleme. Könnyen felmelegedő, sekély vize kiválóan alkalmassá teszi a fürdésre és sportolásra, élővilága rendkívül gazdag, a táj változatos vulkanikus kúpjaival sok tekintetben egyedi.",
-        "kep": "termeszet1.png"
+const nemetTomb = [{
+        "nev": "Allianz Arena",
+        "leiras": "Az Allianz Arena egy labdarúgóstadion München északi részen, a Bajnokok Ligája mérkőzésein a stadion neve München Arena. Az Allianz Arenában a müncheni csapatok, a TSV 1860 München és az FC Bayern München a 2005/2006-os szezontól játszanak.",
+        "kep": "allianz-arena-00.webp"
     },
     {
-        "nev": "Badacsony",
-        "leiras": "A Badacsony a Tapolcai-medence legmagasabb tanúhegye, amely a Balaton északi partján magasodik Badacsonytomaj mellett. A nagyjából kör alakú hegy kerülete 11 km.",
-        "kep": "termeszet2.jpg"
+        "nev": "Olympic Stadium",
+        "leiras": "Az Olympiastadion stadion Berlinben, melyet az 1936-os nyári olimpiára építettek. Az stadion ma a Hertha BSC labdarúgóklub otthona. Az 1974-es és a 2006-os labdarúgó-világbajnokság egyik helyszíne.",
+        "kep": "Berlin.jpg"
     },
     {
-        "nev": "Bükk",
-        "leiras": "A Bükk-vidék az Északi-középhegységben található földrajzi középtáj, Magyarország legnagyobb átlagmagasságú, barlangokban bővelkedő karszthegysége. A Kárpátok része s így az Alpok-Himalája rendszer alrendszere. Középső területe 1977 óta nemzeti park. Nevét leggyakoribb fájáról, a bükkről kapta.",
-        "kep": "termeszet3.jpg"
+        "nev": "Signal Iduna Park",
+        "leiras": "A Signal Iduna Park egy UEFA által öt csillaggal kitüntetett labdarúgóstadion a németországi Dortmundban. A Borussia Dortmund otthonául szolgáló létesítmény az ország legnagyobb kizárólag a labdarúgást szolgáló építménye.",
+        "kep": "bvb09.jpg"
     }
 ]

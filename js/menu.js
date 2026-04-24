@@ -1,4 +1,4 @@
- document.getElementById("menu").innerHTML=`
+ document.getElementById("menu").innerHTML = `
  <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Logo</a>
@@ -11,7 +11,7 @@
           <a class="nav-link" href="index.html">Nyitólap</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="nevezetessegek.html">Nevezetességek</a>
+          <a class="nav-link" href="nevezetesegek.html">Nevezetességek</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Link</a>
@@ -21,4 +21,3 @@
   </div>
 </nav>
 `
-
