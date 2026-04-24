@@ -1,21 +1,19 @@
-.cimecske {
+.cimecske{
     font-size: 200%;
-    font-family: "Playwrite NO";
+    font-family: "Mogra";
 }
-
-.kep {
+.kep{
     height: 300px;
 }
-
-.leirasSzoveg {
+.leirasSzoveg{
     text-align: justify;
 }
-
-.kartya {
-    border: 1px solid blue;
+.kartya{
+    border:1px solid blue;
     box-shadow: 3px 3px;
     border-radius: 3px;
-    margin: 10px;
-    padding: 10px;
+    margin:10px;
+    padding:10px;
     height: 500px;
 }
+
