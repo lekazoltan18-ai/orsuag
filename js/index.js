@@ -1,7 +1,6 @@
-
-let sz=""
+let sz = ""
 for (const elem of termeszetTomb) {
-    sz+=`
+    sz += `
         <div class="col-sm-6">
             <div class="kartya">
                 <p class="text-center cimecske">${elem.nev}</p>
@@ -11,10 +10,4 @@ for (const elem of termeszetTomb) {
         </div>
     `
 }
-document.getElementById("foDiv").innerHTML=sz
-
-
-
-
-
-
+document.getElementById("foDiv").innerHTML = sz
