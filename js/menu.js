@@ -14,7 +14,7 @@
           <a class="nav-link" href="nevezetesegek.html">Nevezetességek</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Autóipar</a>
+          <a class="nav-link" href="autoipar.html">Autóipar</a>
         </li>
       </ul>
     </div>
